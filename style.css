@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#samma{
+    width:50vw;
+    height:100vh;
+    float:left;
+    background-color:antiquewhite;
+}
+
+
+#intesamma{
+    width:50vw;
+    height:100vh;
+    float:left;
+    background-color: beige;
+}
+
+#meny a{
+    display:inline-block;
+    text-align:center;
+    text-decoration:none;
+    width:5vw;
+    border:1px solid black;
+    color:white;
+    background:black;
+    position:relative;
+}
+
+#meny{
+    display:block;
+    width:20vw;
+    height: 5vh;
+    margin: auto;
+}
+
+
+
+#para>p{
+    width:50vw;
+    height:20vh;
+    margin:auto;
+}
+
+#minabilder{
+    text-align:center;
+}
+
+img{
+    width:45vw;
+    height:40%;
+    margin:auto;
+    display:block;
+}
